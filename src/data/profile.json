@@ -1,0 +1,38 @@
+{
+  "name": "Heng Ousa",
+  "title": {
+    "en": "Aspiring Mobile App Developer",
+    "km": "អ្នកអភិវឌ្ឍន៍កម្មវិធីទូរស័ព្ទដៃ"
+  },
+  "greeting": {
+    "en": "Hello, I'm Heng Ousa.",
+    "km": "សួស្តី ខ្ញុំឈ្មោះ ហេង អូសា។"
+  },
+  "bio": {
+    "en": "Hi, I'm Heng Ousa, an IT student passionate about building modern mobile applications and practical technology solutions. I enjoy learning software development, exploring IoT, and creating useful digital experiences.",
+    "km": "សួស្តី ខ្ញុំឈ្មោះ ហេង អូសា និស្សិតព័ត៌មានវិទ្យាដែលមានចំណង់ចំណូលចិត្តក្នុងការបង្កើតកម្មវិធីទូរស័ព្ទទំនើប និងដំណោះស្រាយបច្ចេកវិទ្យាជាក់ស្តែង។ ខ្ញុំចូលចិត្តរៀនការអភិវឌ្ឍន៍ software, ស្វែងយល់អំពី IoT និងបង្កើតបទពិសោធន៍ឌីជីថលដែលមានប្រយោជន៍។"
+  },
+  "about": {
+    "en": "I am a Year 2 Information Technology student at the Royal University of Phnom Penh. My main focus is Mobile App Development with Flutter. I am continuously learning web technologies, programming fundamentals, IoT, and exploring AI-related projects to build practical solutions.",
+    "km": "ខ្ញុំជានិស្សិតឆ្នាំទី២ ផ្នែកព័ត៌មានវិទ្យានៅសាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ។ ចំណុចផ្តោតសំខាន់របស់ខ្ញុំគឺការអភិវឌ្ឍន៍កម្មវិធីទូរស័ព្ទដោយប្រើ Flutter។ ខ្ញុំកំពុងរៀនបច្ចេកវិទ្យាវេប, មូលដ្ឋានគ្រឹះនៃការសរសេរកម្មវិធី, IoT និងស្វែងយល់គម្រោងទាក់ទងនឹង AI ដើម្បីបង្កើតដំណោះស្រាយជាក់ស្តែង។"
+  },
+  "careerGoals": {
+    "en": "My goal is to become a skilled Mobile App Developer specializing in Flutter, while also strengthening full-stack fundamentals to create end-to-end solutions.",
+    "km": "គោលដៅរបស់ខ្ញុំគឺក្លាយជាអ្នកអភិវឌ្ឍន៍កម្មវិធីទូរស័ព្ទដៃដែលមានជំនាញលើ Flutter ព្រមទាំងពង្រឹងមូលដ្ឋាន full-stack ដើម្បីបង្កើតដំណោះស្រាយពីចុងដល់ចុង។"
+  },
+  "interests": {
+    "en": ["Web Development", "Flutter", "Programming Fundamentals", "IoT", "AI-related Technology"],
+    "km": ["ការអភិវឌ្ឍន៍វេប", "Flutter", "មូលដ្ឋានគ្រឹះការសរសេរកម្មវិធី", "IoT", "បច្ចេកវិទ្យាទាក់ទងនឹង AI"]
+  },
+  "availability": {
+    "en": "Open to Internship Opportunities",
+    "km": "បើកទទួលឱកាសហ្វឹកហ្វឺន"
+  },
+  "email": "hengousa@example.com",
+  "social": {
+    "github": "https://github.com/hengousa",
+    "linkedin": "https://linkedin.com/in/hengousa",
+    "telegram": "https://t.me/hengousa"
+  },
+  "cvPath": "/cv/Heng_Ousa_CV.pdf"
+}

@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "frontend",
+      "name": {
+        "en": "Frontend Development",
+        "km": "ការអភិវឌ្ឍន៍ Frontend"
+      },
+      "skills": ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS"]
+    },
+    {
+      "id": "mobile",
+      "name": {
+        "en": "Mobile App Development",
+        "km": "ការអភិវឌ្ឍន៍កម្មវិធីទូរស័ព្ទ"
+      },
+      "skills": ["Flutter", "Dart"]
+    },
+    {
+      "id": "backend",
+      "name": {
+        "en": "Backend Fundamentals",
+        "km": "មូលដ្ឋាន Backend"
+      },
+      "skills": ["PHP", "Laravel", "Node.js", "REST APIs"]
+    },
+    {
+      "id": "databases",
+      "name": {
+        "en": "Databases",
+        "km": "មូលដ្ឋានទិន្នន័យ"
+      },
+      "skills": ["MySQL", "Supabase"]
+    },
+    {
+      "id": "tools",
+      "name": {
+        "en": "Tools and Workflow",
+        "km": "ឧបករណ៍ និង Workflow"
+      },
+      "skills": ["Git", "GitHub"]
+    },
+    {
+      "id": "emerging",
+      "name": {
+        "en": "Emerging Technologies",
+        "km": "បច្ចេកវិទ្យាថ្មីៗ"
+      },
+      "skills": ["IoT Fundamentals"]
+    }
+  ]
+}

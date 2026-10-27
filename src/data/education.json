@@ -1,0 +1,27 @@
+{
+  "entries": [
+    {
+      "id": "rupp",
+      "institution": {
+        "en": "Royal University of Phnom Penh",
+        "km": "សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ"
+      },
+      "degree": {
+        "en": "Bachelor of Information Technology",
+        "km": "បរិញ្ញាបត្រព័ត៌មានវិទ្យា"
+      },
+      "level": {
+        "en": "Year 2",
+        "km": "ឆ្នាំទី២"
+      },
+      "period": {
+        "en": "Present",
+        "km": "បច្ចុប្បន្ន"
+      },
+      "description": {
+        "en": "Studying core IT subjects with a focus on software development, programming, and emerging technologies including mobile development and IoT.",
+        "km": "សិក្សាមុខវិជ្ជាស្នូល IT ផ្តោតលើការអភិវឌ្ឍន៍ software, ការសរសេរកម្មវិធី និងបច្ចេកវិទ្យាថ្មីៗរួមទាំងការអភិវឌ្ឍន៍ទូរស័ព្ទ និង IoT។"
+      }
+    }
+  ]
+}

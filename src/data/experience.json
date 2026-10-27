@@ -1,0 +1,99 @@
+{
+  "entries": [
+    {
+      "id": "study-club",
+      "title": {
+        "en": "Study Club Volunteering",
+        "km": "ស្ម័គ្រចិត្តក្លឹបសិក្សា"
+      },
+      "organization": {
+        "en": "University Study Club",
+        "km": "ក្លឹបសិក្សាសាកលវិទ្យាល័យ"
+      },
+      "period": {
+        "en": "Ongoing",
+        "km": "កំពុងដំណើរការ"
+      },
+      "description": {
+        "en": "Participated in peer learning sessions and collaborative study activities to support fellow students.",
+        "km": "ចូលរួមសម័យរៀនជាមួយមិត្តភក្តិ និងសកម្មភាពសិក្សារួមគ្នាដើម្បីជួយដល់និស្សិតផ្សេងៗ។"
+      }
+    },
+    {
+      "id": "angkor-songkran",
+      "title": {
+        "en": "Angkor Songkran Participation",
+        "km": "ការចូលរួមពិធីបុណ្យអង្គរសង្ក្រាន្ត"
+      },
+      "organization": {
+        "en": "Cultural Event",
+        "km": "ព្រឹត្តិការណ៍វប្បធម៌"
+      },
+      "period": {
+        "en": "Event Participation",
+        "km": "ការចូលរួមព្រឹត្តិការណ៍"
+      },
+      "description": {
+        "en": "Participated in Angkor Songkran cultural activities, contributing to community engagement and cultural celebration.",
+        "km": "ចូលរួមសកម្មភាពវប្បធម៌ពិធីបុណ្យអង្គរសង្ក្រាន្ត រួមចំណែកដល់ការចូលរួមសហគមន៍ និងការប្រារព្ធវប្បធម៌។"
+      }
+    },
+    {
+      "id": "rupp-songkran",
+      "title": {
+        "en": "RUPP Songkran Participation",
+        "km": "ការចូលរួមពិធីសង្ក្រាន្ត RUPP"
+      },
+      "organization": {
+        "en": "Royal University of Phnom Penh",
+        "km": "សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ"
+      },
+      "period": {
+        "en": "Event Participation",
+        "km": "ការចូលរួមព្រឹត្តិការណ៍"
+      },
+      "description": {
+        "en": "Joined university Songkran celebrations and related student activities.",
+        "km": "ចូលរួមពិធីសង្ក្រាន្តសាកលវិទ្យាល័យ និងសកម្មភាពនិស្សិតពាក់ព័ន្ធ។"
+      }
+    },
+    {
+      "id": "red-cross",
+      "title": {
+        "en": "Red Cross Youth Activities",
+        "km": "សកម្មភាពយុវជនកាកបាទក្រហម"
+      },
+      "organization": {
+        "en": "Cambodian Red Cross Youth",
+        "km": "យុវជនកាកបាទក្រហមកម្ពុជា"
+      },
+      "period": {
+        "en": "Volunteer",
+        "km": "ស្ម័គ្រចិត្ត"
+      },
+      "description": {
+        "en": "Took part in Red Cross Youth community service and awareness activities.",
+        "km": "ចូលរួមសកម្មភាពសេវាកម្មសហគមន៍ និងការយល់ដឹងរបស់យុវជនកាកបាទក្រហម។"
+      }
+    },
+    {
+      "id": "uyfc",
+      "title": {
+        "en": "UYFC Activities",
+        "km": "សកម្មភាព UYFC"
+      },
+      "organization": {
+        "en": "University Youth Federation of Cambodia",
+        "km": "សហព័ន្ធយុវជនសាកលវិទ្យាល័យកម្ពុជា"
+      },
+      "period": {
+        "en": "Member Activities",
+        "km": "សកម្មភាពសមាជិក"
+      },
+      "description": {
+        "en": "Participated in university youth federation programs focused on leadership and community involvement.",
+        "km": "ចូលរួមកម្មវិធីសហព័ន្ធយុវជនសាកលវិទ្យាល័យផ្តោតលើភាពជាអ្នកដឹកនាំ និងការចូលរួមសហគមន៍។"
+      }
+    }
+  ]
+}

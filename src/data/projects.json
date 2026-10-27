@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "id": "ecommerce-mobile",
+      "name": {
+        "en": "E-commerce Mobile Application",
+        "km": "កម្មវិធីទូរស័ព្ទ E-commerce"
+      },
+      "description": {
+        "en": "A mobile e-commerce application concept focused on product browsing, cart management, and order flow. Built while learning Flutter and mobile UI patterns.",
+        "km": "គំនិតកម្មវិធីទូរស័ព្ទ e-commerce ផ្តោតលើការរកមើលផលិតផល ការគ្រប់គ្រងកន្ត្រក និងលំហូរការបញ្ជាទិញ។ បង្កើតឡើងខណៈពេលរៀន Flutter និងលំនាំ UI ទូរស័ព្ទ។"
+      },
+      "technologies": ["Flutter", "Dart"],
+      "category": "mobile",
+      "status": {
+        "en": "Learning Project",
+        "km": "គម្រោងសិក្សា"
+      },
+      "featured": true,
+      "github": "",
+      "demo": "",
+      "image": "/images/projects/ecommerce.svg"
+    },
+    {
+      "id": "ai-smart-home",
+      "name": {
+        "en": "AI Smart Home Security System",
+        "km": "ប្រព័ន្ធសុវត្ថិភាពផ្ទះឆ្លាតវៃ AI"
+      },
+      "description": {
+        "en": "An IoT and AI-oriented concept for home security monitoring. Explores sensor integration ideas and basic alert workflows.",
+        "km": "គំនិតផ្តោតលើ IoT និង AI សម្រាប់ការតាមដានសុវត្ថិភាពផ្ទះ។ ស្វែងយល់ពីការរួមបញ្ចូល sensor និងលំហូរជូនដំណឹងមូលដ្ឋាន។"
+      },
+      "technologies": ["IoT", "Flutter", "Python"],
+      "category": "iot",
+      "status": {
+        "en": "Concept / In Progress",
+        "km": "គំនិត / កំពុងដំណើរការ"
+      },
+      "featured": true,
+      "github": "",
+      "demo": "",
+      "image": "/images/projects/smart-home.svg"
+    },
+    {
+      "id": "mart-pos",
+      "name": {
+        "en": "Mart Management / POS System",
+        "km": "ប្រព័ន្ធគ្រប់គ្រងហាង / POS"
+      },
+      "description": {
+        "en": "A point-of-sale and inventory management system concept for small retail shops, focusing on product tracking and sales records.",
+        "km": "គំនិតប្រព័ន្ធ POS និងគ្រប់គ្រងស្តុកសម្រាប់ហាងលក់រាយតូចៗ ផ្តោតលើការតាមដានផលិតផល និងកំណត់ត្រាលក់។"
+      },
+      "technologies": ["PHP", "Laravel", "MySQL"],
+      "category": "web",
+      "status": {
+        "en": "Learning Project",
+        "km": "គម្រោងសិក្សា"
+      },
+      "featured": false,
+      "github": "",
+      "demo": "",
+      "image": "/images/projects/pos.svg"
+    },
+    {
+      "id": "healthcare",
+      "name": {
+        "en": "Healthcare Management System",
+        "km": "ប្រព័ន្ធគ្រប់គ្រងសុខភាព"
+      },
+      "description": {
+        "en": "A healthcare management concept covering patient records and appointment scheduling. Built to practice full-stack fundamentals.",
+        "km": "គំនិតប្រព័ន្ធគ្រប់គ្រងសុខភាពរួមមានកំណត់ត្រាអ្នកជំងឺ និងការកំណត់ពេលណាត់ជួប។ បង្កើតដើម្បីអនុវត្តមូលដ្ឋាន full-stack។"
+      },
+      "technologies": ["React.js", "Node.js", "MySQL"],
+      "category": "web",
+      "status": {
+        "en": "Learning Project",
+        "km": "គម្រោងសិក្សា"
+      },
+      "featured": false,
+      "github": "",
+      "demo": "",
+      "image": "/images/projects/healthcare.svg"
+    }
+  ],
+  "categories": [
+    { "id": "all", "name": { "en": "All", "km": "ទាំងអស់" } },
+    { "id": "mobile", "name": { "en": "Mobile", "km": "ទូរស័ព្ទ" } },
+    { "id": "web", "name": { "en": "Web", "km": "វេប" } },
+    { "id": "iot", "name": { "en": "IoT", "km": "IoT" } }
+  ]
+}

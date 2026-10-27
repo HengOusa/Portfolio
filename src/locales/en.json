@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "hero": {
+    "viewProjects": "View My Projects",
+    "downloadCV": "Download CV",
+    "available": "Open to Internship Opportunities"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me better",
+    "goals": "Career Goals",
+    "interests": "Interests",
+    "education": "Education"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technologies I work with"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Things I've been building and learning",
+    "viewGithub": "GitHub",
+    "viewDemo": "Live Demo",
+    "noProjects": "No projects found in this category.",
+    "featured": "Featured"
+  },
+  "experience": {
+    "title": "Experience & Activities",
+    "subtitle": "Volunteer work, events, and learning activities"
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Academic background"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's connect and collaborate",
+    "invite": "I'm always open to discussing new opportunities, internships, or collaborative projects. Feel free to reach out!",
+    "email": "Email",
+    "copyEmail": "Copy Email",
+    "copied": "Copied!",
+    "telegram": "Telegram",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "footer": {
+    "tagline": "Building useful digital experiences.",
+    "rights": "All rights reserved."
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "english": "English",
+    "khmer": "ខ្មែរ"
+  },
+  "common": {
+    "close": "Close",
+    "menu": "Menu"
+  }
+}

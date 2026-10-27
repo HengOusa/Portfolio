@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Heng Ousa - Aspiring Mobile App Developer & IT Student at Royal University of Phnom Penh. Portfolio showcasing skills in Flutter, React, and more." />
+    <meta name="author" content="Heng Ousa" />
+    <meta property="og:title" content="Heng Ousa | Mobile App Developer Portfolio" />
+    <meta property="og:description" content="Aspiring Mobile App Developer passionate about Flutter, web development, IoT, and AI-related projects." />
+    <meta property="og:type" content="website" />
+    <meta name="theme-color" content="#10AF15" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Battambang:wght@400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <title>Heng Ousa | Portfolio</title>
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem('heng-ousa-theme');
+          var dark = t === 'dark' || (t !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+          document.documentElement.classList.add(dark ? 'dark' : 'light');
+          var lang = localStorage.getItem('heng-ousa-language');
+          if (lang === 'km' || lang === 'en') document.documentElement.lang = lang;
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
