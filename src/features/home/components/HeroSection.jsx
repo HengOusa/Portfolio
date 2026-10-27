@@ -17,7 +17,7 @@ export default function HeroSection() {
 
   const handleCV = () => {
     const link = document.createElement('a')
-    link.href = '/cv/PreView paper.pdf'
+    link.href = profile.cvPath
     link.download = 'Heng_Ousa_CV.pdf'
     link.click()
   }
