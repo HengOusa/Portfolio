@@ -6,6 +6,7 @@ import SocialLinks from '../../../components/common/SocialLinks'
 import { useTranslation } from '../../../hooks/useTranslation'
 import { SECTION_IDS } from '../../../utils/constants'
 import profile from '../../../data/profile.json'
+import portrait from '../../../assets/images/ousa2.jpg'
 
 export default function HeroSection() {
   const { t, language } = useTranslation()
@@ -84,9 +85,11 @@ export default function HeroSection() {
                 border border-light-border dark:border-dark-border
                 flex items-center justify-center overflow-hidden
                 shadow-xl">
-                <div className="w-full h-full flex items-center justify-center bg-light-surface dark:bg-dark-elevated">
-                  <span className="text-6xl sm:text-7xl font-bold text-primary/40">HO</span>
-                </div>
+                <img
+                  src={portrait}
+                  alt={profile.name}
+                  className="w-full h-full object-cover object-center"
+                />
               </div>
               <div className="absolute -bottom-3 -right-3 w-24 h-24 rounded-2xl bg-primary/10 border border-primary/20 -z-10" />
               <div className="absolute -top-3 -left-3 w-16 h-16 rounded-xl bg-primary/5 border border-primary/10 -z-10" />

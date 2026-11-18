@@ -1,13 +1,15 @@
+import { forwardRef } from 'react'
 import { motion } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
 
-export default function ProjectCard({ project, language, t }) {
+const ProjectCard = forwardRef(function ProjectCard({ project, language, t }, ref) {
   const name = project.name[language] || project.name.en
   const desc = project.description[language] || project.description.en
   const status = project.status[language] || project.status.en
 
   return (
     <motion.article
+      ref={ref}
       layout
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
@@ -21,10 +23,14 @@ export default function ProjectCard({ project, language, t }) {
         transition-all duration-300
       "
     >
-      <div className="aspect-video bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center relative overflow-hidden">
-        <span className="text-4xl font-bold text-primary/20 group-hover:scale-110 transition-transform duration-500">
-          {name.charAt(0)}
-        </span>
+      <div className="aspect-video bg-gradient-to-br from-primary/10 to-primary/5 relative overflow-hidden">
+        <img
+          src={project.image}
+          alt={`${name} preview`}
+          className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+          loading="lazy"
+          decoding="async"
+        />
         {project.featured && (
           <span className="absolute top-3 left-3 px-2.5 py-0.5 rounded-full text-[10px] font-semibold uppercase tracking-wide bg-primary text-white">
             {t('projects.featured')}
@@ -86,4 +92,6 @@ export default function ProjectCard({ project, language, t }) {
       </div>
     </motion.article>
   )
-}
+})
+
+export default ProjectCard
